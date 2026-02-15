@@ -1,5 +1,5 @@
 
-```markdown
+```
 # 🌫️ PM2.5 Air Quality Forecasting: Bangkok
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
